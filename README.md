@@ -60,17 +60,18 @@
 
 ## Why This Work Matters
 
-Long-term surface stability depends not only on how much erosion occurs, but also on **where erosion remains focused**. My work investigates whether future erosion in the Swabian Alb is randomly distributed across the landscape or persistently concentrated along specific geomorphic zones.
+Long-term landscape stability depends not only on how much erosion occurs, but also on **where erosion remains focused**. This is especially important in cuesta landscapes such as the Swabian Alb, where the Albtrauf escarpment forms a sharp geomorphic boundary between actively incising escarpment zones and a comparatively stable plateau interior.
 
-The main result is clear: across a large forward-modelling ensemble, high-magnitude erosion remains focused along the **Albtrauf escarpment**, while the plateau interior remains comparatively stable over the tested **1 Myr** timescale. Lithology is the dominant control on this spatial pattern, while climate mainly amplifies incision in channels that are already active.
+My work uses forward landscape evolution modelling over **1 Myr** to test whether future erosion remains spatially concentrated or expands into areas that are relatively stable today. Across the model ensemble, erosion is not randomly distributed: high-magnitude erosion remains focused along the **Albtrauf escarpment**, while the Swabian Plateau interior shows much lower hotspot coverage and limited long-term disturbance.
 
+This matters because persistent escarpment-focused erosion, drainage reorganisation, and plateau stability are directly relevant for understanding long-term surface evolution in southwestern Germany. The results provide a quantitative basis for identifying where future incision is most likely to remain active, where plateau surfaces remain comparatively stable, and how lithology and climate shape these patterns over geological timescales.
 ---
 
 ## Research Snapshot
 
-My master’s thesis applies numerical landscape evolution modelling to study the future development of the Swabian Alb, southwestern Germany. The work combines digital elevation data, lithological information, precipitation forcing, uplift scenarios, and forward modelling to analyse erosion hotspots, escarpment retreat, plateau stability, and drainage-divide migration.
+My master’s thesis applies numerical landscape evolution modelling to study the future development of the Swabian Alb in southwestern Germany. The work combines DEM data, lithological information, uplift fields, precipitation forcing, karst runoff-loss scenarios, and forward modelling to analyse erosion hotspots, escarpment retreat, plateau stability, and drainage-divide migration.
 
-The EGU 2026 poster presents results from **1,728 forward simulations** using a Landlab-based landscape evolution modelling framework. The work is relevant to geomorphology, long-term landscape stability, numerical modelling, and applied questions related to surface evolution over geological timescales.
+The EGU 2026 poster presents results from **1,728 forward simulations** using a Landlab-based modelling framework. The baseline results show a strong escarpment–plateau contrast: approximately **78.7%** of the Albtrauf escarpment area exceeds the P75 erosion-hotspot threshold, including **57.7%** classified as extreme P90 hotspots, whereas the plateau interior shows only **14.1%** P75 coverage and negligible P90 development.  [oai_citation:1‡Sahil_kumar_final_thesis_march_2026.pdf](sediment://file_000000003b7071f4a4a242e2c6f0b539)
 
 <p align="center">
   <img src="https://img.shields.io/badge/1_Myr-forward_modelling-1f4e79?style=for-the-badge">
@@ -97,9 +98,9 @@ The EGU abstract is the official submitted version. After thesis completion, the
 ## Key Message
 
 > **Erosion is not spatially random.**  
-> In the model ensemble, erosion remains concentrated along the Albtrauf escarpment, while the plateau interior stays comparatively stable.
+> Across 1,728 simulations, high-magnitude erosion remains concentrated along the Albtrauf escarpment, while the Swabian Plateau interior remains comparatively stable over the tested 1 Myr timescale.
 
-This suggests that lithological contrasts and inherited landscape structure strongly condition where future incision is most likely to persist.
+The dominant control is lithology. Climate mainly amplifies incision where active drainage networks already exist, while uplift changes relief more than the spatial erosion pattern. Karst, as implemented in the model, shows no measurable long-term influence on hotspot distribution.  [oai_citation:2‡Sahil_kumar_final_thesis_march_2026.pdf](sediment://file_000000003b7071f4a4a242e2c6f0b539)
 
 ---
 
@@ -142,18 +143,9 @@ Geological field training in India and Europe, including rock identification, ge
 
 ## Open to Research and Career Opportunities
 
-I have recently completed my M.Sc. in Geoscience and am now looking for early-career opportunities where I can apply my background in numerical landscape evolution modelling, GIS, geomorphology, geospatial analysis, and geoscientific data analysis.
+I have recently completed my M.Sc. in Geoscience and am looking for early-career opportunities where I can apply my background in numerical landscape evolution modelling, GIS, geomorphology, geospatial analysis, and geoscientific data analysis.
 
-I am open to discussing:
-
-- PhD opportunities  
-- research assistant positions  
-- geomorphology and Earth surface process projects  
-- GIS and spatial data analysis roles  
-- numerical modelling and data-analysis work  
-- collaborations related to lithology–climate–topography interactions  
-
-If my poster, thesis work, or technical background is relevant to your group, project, or organisation, I would be happy to connect and discuss possible opportunities.
+I am open to discussing PhD opportunities, research assistant roles, GIS/spatial-data positions, numerical modelling work, and collaborations related to Earth surface processes, lithology–climate–topography interactions, and long-term landscape stability.
 
 <p align="center">
   <a href="mailto:shilsagwal@gmail.com?subject=EGU%202026%20Research%20Discussion%20or%20Opportunity">
