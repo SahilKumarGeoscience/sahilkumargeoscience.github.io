@@ -13,11 +13,13 @@
 </p>
 
 <p align="center">
-  M.Sc. Geoscience · Landscape Evolution Modelling · Geomorphology · Swabian Alb
+  <em>Based on the EGU 2026 submitted abstract; final title and structure refined after thesis completion.</em>
 </p>
 
 <p align="center">
-  University of Tübingen · Department of Geosciences
+  <img src="https://img.shields.io/badge/M.Sc._Geoscience-University_of_Tübingen-1f4e79?style=flat-square">
+  <img src="https://img.shields.io/badge/Focus-Landscape_Evolution_Modelling-2f6f4e?style=flat-square">
+  <img src="https://img.shields.io/badge/Study_Area-Swabian_Alb-8a2f2f?style=flat-square">
 </p>
 
 ---
@@ -33,6 +35,12 @@
 <p align="center">
   <a href="#">
     <img src="https://img.shields.io/badge/EGU_Abstract-Public_Link_Coming_Soon-green?style=for-the-badge">
+  </a>
+</p>
+
+<p align="center">
+  <a href="mailto:shilsagwal@gmail.com?subject=EGU%202026%20Research%20Discussion%20or%20Opportunity">
+    <img src="https://img.shields.io/badge/Research_Discussion_%2F_Opportunities-Contact-orange?style=for-the-badge">
   </a>
 </p>
 
@@ -54,7 +62,7 @@
 
 Long-term surface stability depends not only on how much erosion occurs, but also on **where erosion remains focused**. My work investigates whether future erosion in the Swabian Alb is randomly distributed across the landscape or persistently concentrated along specific geomorphic zones.
 
-The main result is clear: across a large forward-modelling ensemble, high-magnitude erosion remains focused along the **Albtrauf escarpment**, while the plateau interior remains comparatively stable over the tested 1 Myr timescale. Lithology is the dominant control on this spatial pattern, while climate mainly amplifies incision in channels that are already active.
+The main result is clear: across a large forward-modelling ensemble, high-magnitude erosion remains focused along the **Albtrauf escarpment**, while the plateau interior remains comparatively stable over the tested **1 Myr** timescale. Lithology is the dominant control on this spatial pattern, while climate mainly amplifies incision in channels that are already active.
 
 ---
 
@@ -64,26 +72,34 @@ My master’s thesis applies numerical landscape evolution modelling to study th
 
 The EGU 2026 poster presents results from **1,728 forward simulations** using a Landlab-based landscape evolution modelling framework. The work is relevant to geomorphology, long-term landscape stability, numerical modelling, and applied questions related to surface evolution over geological timescales.
 
+<p align="center">
+  <img src="https://img.shields.io/badge/1_Myr-forward_modelling-1f4e79?style=for-the-badge">
+  <img src="https://img.shields.io/badge/1,728-simulations-8a2f2f?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Landlab-Python-2f6f4e?style=for-the-badge">
+</p>
+
 ---
 
 ## Poster and Abstract Information
+
+**Submitted EGU abstract title:**  
+PASTE YOUR EXACT SUBMITTED ABSTRACT TITLE HERE
 
 **Final poster title:**  
 Sensitivity of Escarpment Evolution to Lithology and Climate Forcing:  
 Forward Landscape Evolution Study from the Swabian Alb
 
-**Submitted EGU abstract title:**  
-Sensitivity of Escarpment Evolution to Lithology and Climate Forcing: Forward Landscape Evolution Study from the Swabian Alb
-
 **Version note:**  
-The EGU abstract is the official submitted version. The final poster represents the updated presentation version prepared after thesis refinement, figure updates, and interpretation improvements. Minor differences in wording, structure, figures, and emphasis may exist between the submitted abstract and the final poster. The scientific focus remains the same: future landscape evolution of the Swabian Alb, lithological control of erosion hotspots, climate sensitivity, and long-term geomorphic stability.
+The EGU abstract is the official submitted version. After thesis completion, the poster title, structure, figures, and emphasis were refined to better match the final results and presentation. Therefore, the submitted abstract and final poster may differ in wording, but they remain connected to the same research direction: future landscape evolution of the Swabian Alb, lithological control of erosion hotspots, and climate sensitivity.
 
 ---
 
 ## Key Message
 
-**Erosion is not spatially random.**  
-In the model ensemble, erosion remains concentrated along the Albtrauf escarpment, while the plateau interior stays comparatively stable. This suggests that lithological contrasts and inherited landscape structure strongly condition where future incision is most likely to persist.
+> **Erosion is not spatially random.**  
+> In the model ensemble, erosion remains concentrated along the Albtrauf escarpment, while the plateau interior stays comparatively stable.
+
+This suggests that lithological contrasts and inherited landscape structure strongly condition where future incision is most likely to persist.
 
 ---
 
@@ -97,6 +113,14 @@ Python, Landlab, MATLAB, TopoToolbox, QGIS, ArcGIS Pro, NumPy, Matplotlib, geosp
 
 **Geomorphic focus:**  
 Erosion hotspots, escarpment retreat, drainage-divide migration, plateau stability, lithological sensitivity, and long-term landscape evolution.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Tools-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Landlab-Modelling-2f6f4e?style=flat-square">
+  <img src="https://img.shields.io/badge/MATLAB-Analysis-orange?style=flat-square">
+  <img src="https://img.shields.io/badge/QGIS-Geospatial-589632?style=flat-square&logo=qgis&logoColor=white">
+  <img src="https://img.shields.io/badge/TopoToolbox-Topographic_Analysis-1f4e79?style=flat-square">
+</p>
 
 ---
 
@@ -116,16 +140,26 @@ Geological field training in India and Europe, including rock identification, ge
 
 ---
 
-## Open to Research Discussion
+## Open to Research and Career Opportunities
 
-I am interested in research opportunities, collaborations, and discussions related to:
+I have recently completed my M.Sc. in Geoscience and am now looking for early-career opportunities where I can apply my background in numerical landscape evolution modelling, GIS, geomorphology, geospatial analysis, and geoscientific data analysis.
 
-- numerical landscape evolution modelling  
-- geomorphology and erosion processes  
-- GIS-based spatial analysis  
-- geoscientific data analysis  
-- lithology–climate–topography interactions  
-- PhD or research assistant opportunities in Earth surface processes  
+I am open to discussing:
+
+- PhD opportunities  
+- research assistant positions  
+- geomorphology and Earth surface process projects  
+- GIS and spatial data analysis roles  
+- numerical modelling and data-analysis work  
+- collaborations related to lithology–climate–topography interactions  
+
+If my poster, thesis work, or technical background is relevant to your group, project, or organisation, I would be happy to connect and discuss possible opportunities.
+
+<p align="center">
+  <a href="mailto:shilsagwal@gmail.com?subject=EGU%202026%20Research%20Discussion%20or%20Opportunity">
+    <img src="https://img.shields.io/badge/Contact_for_Research_%2F_Career_Opportunities-Email_Me-orange?style=for-the-badge">
+  </a>
+</p>
 
 ---
 
