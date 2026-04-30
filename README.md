@@ -1,176 +1,62 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Sahil Kumar | EGU 2026</title>
+# Sahil Kumar
 
-  <style>
-    body {
-      margin: 0;
-      font-family: Arial, Helvetica, sans-serif;
-      background: #f4f6f8;
-      color: #222;
-      text-align: center;
-    }
+<p align="center">
+  <img width="220" alt="Sahil Kumar" src="https://github.com/user-attachments/assets/d9bb628f-b378-437f-854c-69b2036c3bdb" />
+</p>
 
-    .container {
-      max-width: 760px;
-      margin: 40px auto;
-      padding: 30px;
-      background: white;
-      border-radius: 18px;
-      box-shadow: 0 8px 25px rgba(0,0,0,0.08);
-    }
+<h2 align="center">EGU 2026 Poster Page</h2>
 
-    img.profile {
-      width: 165px;
-      height: 165px;
-      border-radius: 50%;
-      object-fit: cover;
-      border: 4px solid #e6e6e6;
-      margin-bottom: 15px;
-    }
+<p align="center">
+  <strong>Sensitivity of Escarpment Evolution to Lithology and Climate Forcing:<br>
+  Forward Landscape Evolution Study from the Swabian Alb</strong>
+</p>
 
-    h1 {
-      margin-bottom: 5px;
-      font-size: 32px;
-    }
+<p align="center">
+  M.Sc. Geoscience · Landscape Evolution Modelling · Geomorphology · Swabian Alb
+</p>
 
-    h2 {
-      font-size: 20px;
-      color: #444;
-      font-weight: normal;
-      margin-top: 5px;
-    }
+---
 
-    .title {
-      margin-top: 25px;
-      font-size: 20px;
-      font-weight: bold;
-      line-height: 1.4;
-      color: #1f3f5b;
-    }
+## Quick Links
 
-    .info {
-      margin: 18px auto;
-      max-width: 620px;
-      line-height: 1.6;
-      font-size: 16px;
-      color: #444;
-    }
+<p align="center">
+  <a href="https://www.linkedin.com/in/sahil-kumar-0767a2110/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin">
+  </a>
+</p>
 
-    .note {
-      margin: 25px auto;
-      padding: 16px;
-      max-width: 620px;
-      background: #f0f4f8;
-      border-left: 5px solid #1f4e79;
-      text-align: left;
-      line-height: 1.6;
-      font-size: 15px;
-      color: #333;
-      border-radius: 8px;
-    }
+<p align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/EGU_Abstract-Public_Link_Coming_Soon-green?style=for-the-badge">
+  </a>
+</p>
 
-    .button {
-      display: block;
-      width: 82%;
-      max-width: 420px;
-      margin: 16px auto;
-      padding: 15px;
-      text-decoration: none;
-      color: white;
-      background: #1f4e79;
-      border-radius: 10px;
-      font-size: 18px;
-      font-weight: bold;
-    }
+<p align="center">
+  <a href="Sahil_Kumar_EGU2026_Final_Poster.pdf">
+    <img src="https://img.shields.io/badge/Final_Poster_PDF-Download-red?style=for-the-badge">
+  </a>
+</p>
 
-    .button:hover {
-      opacity: 0.88;
-    }
+<p align="center">
+  <a href="Sahil_Kumar_CV.pdf">
+    <img src="https://img.shields.io/badge/Academic_CV-View-darkgrey?style=for-the-badge">
+  </a>
+</p>
 
-    .green {
-      background: #2f6f4e;
-    }
+---
 
-    .red {
-      background: #8a2f2f;
-    }
+## About
 
-    .dark {
-      background: #333333;
-    }
+This page provides access to my EGU 2026 conference materials, including my final poster PDF, submitted abstract, LinkedIn profile, and academic CV.
 
-    .contact {
-      margin-top: 28px;
-      font-size: 15px;
-      color: #444;
-      line-height: 1.6;
-    }
+The EGU abstract represents the official submitted version. The final poster PDF represents the updated presentation version prepared after further thesis refinement, figure updates, and interpretation improvements. Minor differences in wording, structure, and emphasis may therefore exist between the submitted abstract and the final poster.
 
-    footer {
-      margin-top: 30px;
-      font-size: 13px;
-      color: #777;
-    }
-  </style>
-</head>
+---
 
-<body>
-  <div class="container">
+## Contact
 
-    <img class="profile" src="https://github.com/user-attachments/assets/d9bb628f-b378-437f-854c-69b2036c3bdb" alt="Sahil Kumar">
-
-    <h1>Sahil Kumar</h1>
-
-    <h2>M.Sc. Geoscience | Landscape Evolution Modelling</h2>
-
-    <div class="title">
-      EGU 2026 Poster<br>
-      Sensitivity of Escarpment Evolution to Lithology and Climate Forcing:<br>
-      Forward Landscape Evolution Study from the Swabian Alb
-    </div>
-
-    <div class="info">
-      This page provides quick access to my EGU 2026 conference materials, including my final poster PDF, submitted abstract, LinkedIn profile, and selected professional information.
-    </div>
-
-    <div class="note">
-      <strong>Version note:</strong> The EGU abstract represents the official submitted version. 
-      The final poster PDF represents the updated presentation version prepared after further thesis refinement, figure updates, and interpretation improvements. 
-      Minor differences in wording, structure, and emphasis may therefore exist between the submitted abstract and the final poster.
-    </div>
-
-    <a class="button" href="https://www.linkedin.com/in/sahil-kumar-0767a2110/" target="_blank">
-      LinkedIn Profile
-    </a>
-
-    <a class="button green" href="#" target="_blank">
-      EGU Abstract — Public Link Coming Soon
-    </a>
-
-    <a class="button red" href="Sahil_Kumar_EGU2026_Final_Poster.pdf" target="_blank">
-      Final Poster PDF
-    </a>
-
-    <a class="button dark" href="Sahil_Kumar_CV.pdf" target="_blank">
-      Academic CV
-    </a>
-
-    <div class="contact">
-      <strong>Contact</strong><br>
-      Sahil Kumar<br>
-      M.Sc. Geoscience<br>
-      University of Tübingen<br>
-      Email: add-your-email-here
-    </div>
-
-    <footer>
-      EGU 2026 · Geomorphology · Numerical Landscape Evolution Modelling
-    </footer>
-
-  </div>
-</body>
-</html>
+**Sahil Kumar**  
+M.Sc. Geoscience  
+University of Tübingen  
+Research focus: Landscape evolution modelling, geomorphology, lithology–climate sensitivity, Swabian Alb  
+Email: add-your-email-here
