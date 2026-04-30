@@ -7,13 +7,12 @@
 <h2 align="center">EGU 2026 Research Profile</h2>
 
 <p align="center">
-  <strong>EGU 2026 Submitted Abstract and Final Poster Title</strong><br>
   <strong>Sensitivity of Escarpment Evolution to Lithology and Climate Forcing:<br>
   Forward Landscape Evolution Study from the Swabian Alb</strong>
 </p>
 
 <p align="center">
-  <em>EGU 2026 submitted abstract and final poster based on my completed M.Sc. thesis work.</em>
+  <em>Research based on my M.Sc. thesis in landscape evolution modelling of the Swabian Alb.</em>
 </p>
 
 <p align="center">
@@ -70,7 +69,7 @@ This matters because persistent escarpment-focused erosion, drainage reorganisat
 
 ## Research Snapshot
 
-My master’s thesis applies numerical landscape evolution modelling to study the future development of the Swabian Alb in southwestern Germany. The work combines DEM data, lithological information, uplift fields, precipitation forcing, karst runoff-loss scenarios, and forward modelling to analyse erosion hotspots, escarpment retreat, plateau stability, and drainage-divide migration.
+My M.Sc. thesis applies numerical landscape evolution modelling to study the future development of the Swabian Alb in southwestern Germany. The work combines DEM data, lithological information, uplift fields, precipitation forcing, karst runoff-loss scenarios, and forward modelling to analyse erosion hotspots, escarpment retreat, plateau stability, and drainage-divide migration.
 
 The EGU 2026 poster presents results from **1,728 forward simulations** using a Landlab-based modelling framework. The baseline results show a strong escarpment–plateau contrast: approximately **78.7%** of the Albtrauf escarpment area exceeds the P75 erosion-hotspot threshold, including **57.7%** classified as extreme P90 hotspots, whereas the plateau interior shows only **14.1%** P75 coverage and negligible P90 development.
 
@@ -84,12 +83,9 @@ The EGU 2026 poster presents results from **1,728 forward simulations** using a 
 
 ## Poster and Abstract Information
 
-**EGU 2026 submitted abstract and final poster title:**  
-Sensitivity of Escarpment Evolution to Lithology and Climate Forcing:  
-Forward Landscape Evolution Study from the Swabian Alb
+This EGU 2026 poster is based on my completed M.Sc. thesis work on future landscape evolution of the Swabian Alb.
 
-**Version note:**  
-The title of the submitted EGU abstract and the final poster is the same. The final poster PDF represents the updated presentation version prepared after thesis completion, figure refinement, and interpretation improvements. Therefore, minor differences may exist between the submitted abstract text and the final poster content, but both refer to the same research work and scientific direction.
+The poster PDF presents the final conference version of the work. Minor differences may exist between the submitted abstract text and the final poster content because the figures, structure, and interpretation were refined after thesis completion. The scientific focus remains the same: lithological control of erosion hotspots, climate sensitivity, escarpment evolution, and long-term plateau stability.
 
 ---
 
@@ -160,7 +156,7 @@ M.Sc. Geoscience
 University of Tübingen  
 Tübingen, Germany  
 
-📧 Email: shilsagwal@gmail.com  
+📧 Email: kumar.shilsagwal@gmail.com  
 🔗 LinkedIn: [sahil-kumar-0767a2110](https://www.linkedin.com/in/sahil-kumar-0767a2110/)
 
 ---
