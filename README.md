@@ -7,13 +7,13 @@
 <h2 align="center">EGU 2026 Research Profile</h2>
 
 <p align="center">
-  <strong>Final Poster Title</strong><br>
+  <strong>EGU 2026 Submitted Abstract and Final Poster Title</strong><br>
   <strong>Sensitivity of Escarpment Evolution to Lithology and Climate Forcing:<br>
   Forward Landscape Evolution Study from the Swabian Alb</strong>
 </p>
 
 <p align="center">
-  <em>Based on the EGU 2026 submitted abstract; final poster title, figures, and structure were refined after thesis completion.</em>
+  <em>EGU 2026 submitted abstract and final poster based on my completed M.Sc. thesis work.</em>
 </p>
 
 <p align="center">
@@ -84,15 +84,12 @@ The EGU 2026 poster presents results from **1,728 forward simulations** using a 
 
 ## Poster and Abstract Information
 
-**Submitted EGU abstract title:**  
-PASTE YOUR EXACT SUBMITTED ABSTRACT TITLE HERE
-
-**Final poster title:**  
+**EGU 2026 submitted abstract and final poster title:**  
 Sensitivity of Escarpment Evolution to Lithology and Climate Forcing:  
 Forward Landscape Evolution Study from the Swabian Alb
 
 **Version note:**  
-The EGU abstract is the official submitted version. After thesis completion, the poster title, structure, figures, and emphasis were refined to better match the final results and presentation. Therefore, the submitted abstract and final poster may differ in wording, but they remain connected to the same research direction: future landscape evolution of the Swabian Alb, lithological control of erosion hotspots, climate sensitivity, and long-term geomorphic stability.
+The title of the submitted EGU abstract and the final poster is the same. The final poster PDF represents the updated presentation version prepared after thesis completion, figure refinement, and interpretation improvements. Therefore, minor differences may exist between the submitted abstract text and the final poster content, but both refer to the same research work and scientific direction.
 
 ---
 
