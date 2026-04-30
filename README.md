@@ -38,7 +38,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:shilsagwal@gmail.com?subject=EGU%202026%20Research%20Discussion%20or%20Opportunity">
+  <a href="mailto:kumar.shilsagwal@gmail.com?subject=EGU%202026%20Research%20Discussion%20or%20Opportunity">
     <img src="https://img.shields.io/badge/Research_Discussion_%2F_Opportunities-Contact-orange?style=for-the-badge">
   </a>
 </p>
