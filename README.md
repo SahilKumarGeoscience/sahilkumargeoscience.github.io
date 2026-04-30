@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <em>Based on the EGU 2026 submitted abstract; final title and structure refined after thesis completion.</em>
+  <em>Based on the EGU 2026 submitted abstract; final poster title, figures, and structure were refined after thesis completion.</em>
 </p>
 
 <p align="center">
@@ -65,13 +65,14 @@ Long-term landscape stability depends not only on how much erosion occurs, but a
 My work uses forward landscape evolution modelling over **1 Myr** to test whether future erosion remains spatially concentrated or expands into areas that are relatively stable today. Across the model ensemble, erosion is not randomly distributed: high-magnitude erosion remains focused along the **Albtrauf escarpment**, while the Swabian Plateau interior shows much lower hotspot coverage and limited long-term disturbance.
 
 This matters because persistent escarpment-focused erosion, drainage reorganisation, and plateau stability are directly relevant for understanding long-term surface evolution in southwestern Germany. The results provide a quantitative basis for identifying where future incision is most likely to remain active, where plateau surfaces remain comparatively stable, and how lithology and climate shape these patterns over geological timescales.
+
 ---
 
 ## Research Snapshot
 
 My master’s thesis applies numerical landscape evolution modelling to study the future development of the Swabian Alb in southwestern Germany. The work combines DEM data, lithological information, uplift fields, precipitation forcing, karst runoff-loss scenarios, and forward modelling to analyse erosion hotspots, escarpment retreat, plateau stability, and drainage-divide migration.
 
-The EGU 2026 poster presents results from **1,728 forward simulations** using a Landlab-based modelling framework. The baseline results show a strong escarpment–plateau contrast: approximately **78.7%** of the Albtrauf escarpment area exceeds the P75 erosion-hotspot threshold, including **57.7%** classified as extreme P90 hotspots, whereas the plateau interior shows only **14.1%** P75 coverage and negligible P90 development.  [oai_citation:1‡Sahil_kumar_final_thesis_march_2026.pdf](sediment://file_000000003b7071f4a4a242e2c6f0b539)
+The EGU 2026 poster presents results from **1,728 forward simulations** using a Landlab-based modelling framework. The baseline results show a strong escarpment–plateau contrast: approximately **78.7%** of the Albtrauf escarpment area exceeds the P75 erosion-hotspot threshold, including **57.7%** classified as extreme P90 hotspots, whereas the plateau interior shows only **14.1%** P75 coverage and negligible P90 development.
 
 <p align="center">
   <img src="https://img.shields.io/badge/1_Myr-forward_modelling-1f4e79?style=for-the-badge">
@@ -91,7 +92,7 @@ Sensitivity of Escarpment Evolution to Lithology and Climate Forcing:
 Forward Landscape Evolution Study from the Swabian Alb
 
 **Version note:**  
-The EGU abstract is the official submitted version. After thesis completion, the poster title, structure, figures, and emphasis were refined to better match the final results and presentation. Therefore, the submitted abstract and final poster may differ in wording, but they remain connected to the same research direction: future landscape evolution of the Swabian Alb, lithological control of erosion hotspots, and climate sensitivity.
+The EGU abstract is the official submitted version. After thesis completion, the poster title, structure, figures, and emphasis were refined to better match the final results and presentation. Therefore, the submitted abstract and final poster may differ in wording, but they remain connected to the same research direction: future landscape evolution of the Swabian Alb, lithological control of erosion hotspots, climate sensitivity, and long-term geomorphic stability.
 
 ---
 
@@ -100,7 +101,7 @@ The EGU abstract is the official submitted version. After thesis completion, the
 > **Erosion is not spatially random.**  
 > Across 1,728 simulations, high-magnitude erosion remains concentrated along the Albtrauf escarpment, while the Swabian Plateau interior remains comparatively stable over the tested 1 Myr timescale.
 
-The dominant control is lithology. Climate mainly amplifies incision where active drainage networks already exist, while uplift changes relief more than the spatial erosion pattern. Karst, as implemented in the model, shows no measurable long-term influence on hotspot distribution.  [oai_citation:2‡Sahil_kumar_final_thesis_march_2026.pdf](sediment://file_000000003b7071f4a4a242e2c6f0b539)
+The dominant control is lithology. Climate mainly amplifies incision where active drainage networks already exist, while uplift changes relief more than the spatial erosion pattern. Karst, as implemented in the model, shows no measurable long-term influence on hotspot distribution.
 
 ---
 
