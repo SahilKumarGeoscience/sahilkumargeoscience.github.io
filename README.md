@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Sahil Kumar | EGU 2026 Poster</title>
+  <title>Sahil Kumar | EGU 2026</title>
 
   <style>
     body {
@@ -85,27 +85,22 @@
       border-radius: 10px;
       font-size: 18px;
       font-weight: bold;
-      transition: 0.2s;
     }
 
     .button:hover {
-      background: #163a5a;
+      opacity: 0.88;
     }
 
-    .button.secondary {
+    .green {
       background: #2f6f4e;
     }
 
-    .button.secondary:hover {
-      background: #24563d;
-    }
-
-    .button.poster {
+    .red {
       background: #8a2f2f;
     }
 
-    .button.poster:hover {
-      background: #682424;
+    .dark {
+      background: #333333;
     }
 
     .contact {
@@ -129,6 +124,7 @@
     <img class="profile" src="https://github.com/user-attachments/assets/d9bb628f-b378-437f-854c-69b2036c3bdb" alt="Sahil Kumar">
 
     <h1>Sahil Kumar</h1>
+
     <h2>M.Sc. Geoscience | Landscape Evolution Modelling</h2>
 
     <div class="title">
@@ -138,25 +134,29 @@
     </div>
 
     <div class="info">
-      This page provides quick access to my EGU 2026 conference materials, including the submitted abstract, final poster PDF, and professional profile.
+      This page provides quick access to my EGU 2026 conference materials, including my final poster PDF, submitted abstract, LinkedIn profile, and selected professional information.
     </div>
 
     <div class="note">
-      <strong>Note:</strong> The EGU abstract represents the official submitted version. 
-      The poster PDF represents the final presentation version prepared after further thesis refinement, figure updates, and interpretation improvements. 
-      Therefore, minor differences in wording, structure, and emphasis may exist between the submitted abstract and the final poster.
+      <strong>Version note:</strong> The EGU abstract represents the official submitted version. 
+      The final poster PDF represents the updated presentation version prepared after further thesis refinement, figure updates, and interpretation improvements. 
+      Minor differences in wording, structure, and emphasis may therefore exist between the submitted abstract and the final poster.
     </div>
 
     <a class="button" href="https://www.linkedin.com/in/sahil-kumar-0767a2110/" target="_blank">
       LinkedIn Profile
     </a>
 
-    <a class="button secondary" href="ADD_PUBLIC_EGU_ABSTRACT_LINK_HERE" target="_blank">
-      View EGU Abstract
+    <a class="button green" href="#" target="_blank">
+      EGU Abstract — Public Link Coming Soon
     </a>
 
-    <a class="button poster" href="Sahil_Kumar_EGU2026_Final_Poster.pdf" target="_blank">
-      Download Final Poster PDF
+    <a class="button red" href="Sahil_Kumar_EGU2026_Final_Poster.pdf" target="_blank">
+      Final Poster PDF
+    </a>
+
+    <a class="button dark" href="Sahil_Kumar_CV.pdf" target="_blank">
+      Academic CV
     </a>
 
     <div class="contact">
@@ -164,7 +164,7 @@
       Sahil Kumar<br>
       M.Sc. Geoscience<br>
       University of Tübingen<br>
-      Email: ADD_YOUR_EMAIL_HERE
+      Email: add-your-email-here
     </div>
 
     <footer>
