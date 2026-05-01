@@ -21,6 +21,14 @@
   <img src="https://img.shields.io/badge/Study_Area-Swabian_Alb-8a2f2f?style=flat-square">
 </p>
 
+<p align="center">
+  <strong>Open to PhD, research assistant, GIS, numerical modelling, and geoscientific data-analysis opportunities.</strong>
+</p>
+
+<p align="center">
+  <em>Last updated: April 2026</em>
+</p>
+
 ---
 
 ## Quick Access
@@ -38,7 +46,13 @@
 </p>
 
 <p align="center">
-  <a href="mailto:kumar.shilsagwal@gmail.com?subject=EGU%202026%20Research%20Discussion%20or%20Opportunity">
+  <a href="mailto:shilsagwal@gmail.com?subject=EGU%202026%20Poster%20Follow-up">
+    <img src="https://img.shields.io/badge/Discuss_the_Poster-Email_Me-1f4e79?style=for-the-badge">
+  </a>
+</p>
+
+<p align="center">
+  <a href="mailto:shilsagwal@gmail.com?subject=EGU%202026%20Research%20Discussion%20or%20Opportunity">
     <img src="https://img.shields.io/badge/Research_Discussion_%2F_Opportunities-Contact-orange?style=for-the-badge">
   </a>
 </p>
@@ -54,6 +68,13 @@
     <img src="https://img.shields.io/badge/Short_Academic_CV-View-darkgrey?style=for-the-badge">
   </a>
 </p>
+
+---
+
+## Main Takeaway
+
+**Lithology controls where future erosion remains focused.**  
+Across the model ensemble, the Albtrauf escarpment remains the dominant erosion hotspot, while the Swabian Plateau interior stays comparatively stable over the tested **1 Myr** timescale.
 
 ---
 
@@ -156,7 +177,7 @@ M.Sc. Geoscience
 University of Tübingen  
 Tübingen, Germany  
 
-📧 Email: kumar.shilsagwal@gmail.com  
+📧 Email: shilsagwal@gmail.com  
 🔗 LinkedIn: [sahil-kumar-0767a2110](https://www.linkedin.com/in/sahil-kumar-0767a2110/)
 
 ---
