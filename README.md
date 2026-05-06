@@ -68,11 +68,11 @@
 ## Poster at EGU 2026
 
 <p align="center">
-  <img width="700" alt="Sahil Kumar presenting EGU 2026 poster" src="ADD_YOUR_POSTER_PHOTO_LINK_HERE" />
+  <img width="650" alt="Sahil Kumar presenting his EGU 2026 poster in Vienna" src="YOUR_GITHUB_IMAGE_LINK_HERE" />
 </p>
 
 <p align="center">
-  <em>Poster presentation at the EGU General Assembly 2026, Vienna.</em>
+  <em>Poster presentation at the EGU General Assembly 2026 in Vienna.</em>
 </p>
 
 ---
