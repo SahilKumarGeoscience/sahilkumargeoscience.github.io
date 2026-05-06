@@ -4,7 +4,7 @@
   <img width="220" alt="Sahil Kumar" src="https://github.com/user-attachments/assets/d9bb628f-b378-437f-854c-69b2036c3bdb" />
 </p>
 
-<h2 align="center">EGU 2026 Research Profile</h2>
+<h2 align="center">EGU 2026 Poster Presentation</h2>
 
 <p align="center">
   <strong>Sensitivity of Escarpment Evolution to Lithology and Climate Forcing:<br>
@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <em>Based on my M.Sc. thesis on numerical landscape evolution modelling of the Swabian Alb.</em>
+  <em>Presented at the EGU General Assembly 2026 in Vienna. Based on my M.Sc. thesis on numerical landscape evolution modelling of the Swabian Alb.</em>
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-  <em>Last updated: April 2026</em>
+  <em>Last updated: May 2026</em>
 </p>
 
 ---
@@ -40,8 +40,8 @@
 </p>
 
 <p align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/EGU_Abstract-Public_Link_Coming_Soon-green?style=for-the-badge">
+  <a href="https://meetingorganizer.copernicus.org/EGU26/EGU26-20653.html">
+    <img src="https://img.shields.io/badge/EGU_Abstract-View-green?style=for-the-badge">
   </a>
 </p>
 
@@ -77,7 +77,7 @@ Across the model ensemble, high-magnitude erosion remains concentrated along the
 
 Long-term landscape stability is not only about how much erosion occurs. It is also about **where erosion remains focused**.
 
-The Swabian Alb is a useful natural setting for this question because the Albtrauf escarpment forms a sharp geomorphic boundary between actively incising escarpment sectors and a lower-relief plateau interior. My thesis uses forward landscape evolution modelling to test whether future erosion stays concentrated along this escarpment or expands into areas that appear comparatively stable today.
+The Swabian Alb is a useful setting for this question because the Albtrauf escarpment forms a sharp geomorphic boundary between actively incising escarpment sectors and a lower-relief plateau interior. My thesis used forward landscape evolution modelling to test whether future erosion stays concentrated along this escarpment or expands into areas that appear comparatively stable today.
 
 The main result is clear: erosion is not spatially random. Across the model ensemble, high-magnitude erosion remains focused along the **Albtrauf escarpment**, while the plateau interior shows much lower hotspot coverage and limited long-term disturbance.
 
@@ -87,7 +87,7 @@ The main result is clear: erosion is not spatially random. Across the model ense
 
 My M.Sc. thesis investigates the future landscape evolution of the Swabian Alb in southwestern Germany using a Landlab-based numerical modelling framework.
 
-The model combines DEM data, 3-D lithology, uplift fields, precipitation forcing, karst runoff-loss scenarios, weak alluvial infill, and lithology-dependent erodibility. I used the outputs to analyse erosion hotspots, escarpment retreat, plateau stability, drainage-divide migration, and scenario sensitivity.
+The model combines DEM data, 3-D lithology, uplift fields, precipitation forcing, karst runoff-loss scenarios, weak alluvial infill, and lithology-dependent erodibility. I used the model outputs to analyse erosion hotspots, escarpment retreat, plateau stability, drainage-divide migration, and scenario sensitivity.
 
 The EGU 2026 poster presents results from **1,728 forward simulations**. In the baseline model, the escarpment–plateau contrast is strong:
 
@@ -105,7 +105,7 @@ The EGU 2026 poster presents results from **1,728 forward simulations**. In the 
 
 ## Poster and Abstract Information
 
-This EGU 2026 poster is based on my completed M.Sc. thesis on the future landscape evolution of the Swabian Alb.
+This page brings together the final poster, EGU abstract, short CV, and contact information related to my EGU 2026 presentation.
 
 The final poster version includes refined figures, structure, and interpretation developed after the thesis was completed. The scientific focus remains the same: lithological control of erosion hotspots, climate sensitivity, escarpment evolution, drainage reorganisation, and long-term plateau stability.
 
