@@ -65,6 +65,18 @@
 
 ---
 
+## Poster at EGU 2026
+
+<p align="center">
+  <img width="700" alt="Sahil Kumar presenting EGU 2026 poster" src="ADD_YOUR_POSTER_PHOTO_LINK_HERE" />
+</p>
+
+<p align="center">
+  <em>Poster presentation at the EGU General Assembly 2026, Vienna.</em>
+</p>
+
+---
+
 ## Main Takeaway
 
 **Lithology controls where future erosion remains focused.**
@@ -73,21 +85,11 @@ Across the model ensemble, high-magnitude erosion remains concentrated along the
 
 ---
 
-## Why This Work Matters
-
-Long-term landscape stability is not only about how much erosion occurs. It is also about **where erosion remains focused**.
-
-The Swabian Alb is a useful setting for this question because the Albtrauf escarpment forms a sharp geomorphic boundary between actively incising escarpment sectors and a lower-relief plateau interior. My thesis used forward landscape evolution modelling to test whether future erosion stays concentrated along this escarpment or expands into areas that appear comparatively stable today.
-
-The main result is clear: erosion is not spatially random. Across the model ensemble, high-magnitude erosion remains focused along the **Albtrauf escarpment**, while the plateau interior shows much lower hotspot coverage and limited long-term disturbance.
-
----
-
 ## Research Snapshot
 
 My M.Sc. thesis investigates the future landscape evolution of the Swabian Alb in southwestern Germany using a Landlab-based numerical modelling framework.
 
-The model combines DEM data, 3-D lithology, uplift fields, precipitation forcing, karst runoff-loss scenarios, weak alluvial infill, and lithology-dependent erodibility. I used the model outputs to analyse erosion hotspots, escarpment retreat, plateau stability, drainage-divide migration, and scenario sensitivity.
+The model combines DEM data, 3-D lithology, uplift fields, precipitation forcing, karst runoff-loss scenarios, weak alluvial infill, and lithology-dependent erodibility. I used the outputs to analyse erosion hotspots, escarpment retreat, plateau stability, drainage-divide migration, and scenario sensitivity.
 
 The EGU 2026 poster presents results from **1,728 forward simulations**. In the baseline model, the escarpment–plateau contrast is strong:
 
@@ -103,33 +105,23 @@ The EGU 2026 poster presents results from **1,728 forward simulations**. In the 
 
 ---
 
-## Poster and Abstract Information
+## Key Results
 
-This page brings together the final poster, EGU abstract, short CV, and contact information related to my EGU 2026 presentation.
-
-The final poster version includes refined figures, structure, and interpretation developed after the thesis was completed. The scientific focus remains the same: lithological control of erosion hotspots, climate sensitivity, escarpment evolution, drainage reorganisation, and long-term plateau stability.
-
----
-
-## Key Message
-
-> **Erosion is not spatially random.**  
-> Across 1,728 simulations, high-magnitude erosion remains concentrated along the Albtrauf escarpment, while the Swabian Plateau interior remains comparatively stable over the tested 1 Myr timescale.
-
-Lithology is the first-order control on where erosion persists. Climate mainly amplifies incision in already active drainage networks. Uplift modifies relief more than the spatial erosion pattern, and karst, as implemented in this model framework, does not strongly reorganise the hotspot distribution.
+- Erosion hotspots remain focused along the Albtrauf escarpment rather than spreading randomly across the model domain.
+- The plateau interior remains comparatively less affected across the tested 1 Myr scenarios.
+- Lithology is the first-order control on where erosion persists.
+- Climate mainly amplifies incision where drainage is already active.
+- The model is best interpreted as a regional screening tool, not an exact site-scale prediction.
 
 ---
 
 ## Methods and Tools
 
-**Numerical modelling**  
-Landlab-based landscape evolution modelling, stream-power incision, hillslope diffusion, lithology-dependent erodibility, precipitation forcing, uplift scenarios, karst runoff loss, and long-term forward simulations.
+**Numerical modelling:** Landlab-based landscape evolution modelling, stream-power incision, hillslope diffusion, lithology-dependent erodibility, precipitation forcing, uplift scenarios, karst runoff loss, and long-term forward simulations.
 
-**Geospatial and analytical tools**  
-Python, Landlab, MATLAB, TopoToolbox, QGIS, ArcGIS Pro, NumPy, Matplotlib, raster processing, topographic profile analysis, and data visualisation.
+**Geospatial and analytical tools:** Python, Landlab, MATLAB, TopoToolbox, QGIS, ArcGIS Pro, NumPy, Matplotlib, raster processing, topographic profile analysis, and data visualisation.
 
-**Geomorphic focus**  
-Erosion hotspots, escarpment retreat, drainage-divide migration, plateau stability, lithological sensitivity, and long-term landscape evolution.
+**Geomorphic focus:** erosion hotspots, escarpment retreat, drainage-divide migration, plateau stability, lithological sensitivity, and long-term landscape evolution.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-Tools-3776AB?style=flat-square&logo=python&logoColor=white">
@@ -143,17 +135,13 @@ Erosion hotspots, escarpment retreat, drainage-divide migration, plateau stabili
 
 ## Selected Background
 
-**Research focus**  
-Numerical landscape evolution modelling, geomorphology, erosion processes, lithological control on landscape sensitivity, and long-term surface stability.
+**Research focus:** numerical landscape evolution modelling, geomorphology, erosion processes, lithological control on landscape sensitivity, and long-term surface stability.
 
-**Research experience**  
-Research work at the University of Tübingen, Department of Geosciences, including geochronological sample preparation, QGIS-based spatial datasets, and Python-based landscape evolution modelling.
+**Research experience:** research work at the University of Tübingen, Department of Geosciences, including geochronological sample preparation, QGIS-based spatial datasets, and Python-based landscape evolution modelling.
 
-**Geophysics experience**  
-Internship at Kurukshetra University involving MASW seismic surveys, 24-channel PASI GEA-24 data acquisition, WinMASW processing, and near-surface shear-wave velocity interpretation.
+**Geophysics experience:** MASW seismic surveys, 24-channel PASI GEA-24 data acquisition, WinMASW processing, and near-surface shear-wave velocity interpretation.
 
-**Field background**  
-Geological field training in India and Europe, including rock identification, geological map reading, dip/strike measurements, recognition of folds, faults, lithological contacts, and applied site observations.
+**Field background:** geological field training in India and Europe, including rock identification, geological map reading, dip/strike measurements, and recognition of folds, faults, and lithological contacts.
 
 ---
 
@@ -161,7 +149,7 @@ Geological field training in India and Europe, including rock identification, ge
 
 My current interests are numerical landscape evolution modelling, GIS-based terrain analysis, lithological controls on erosion, and long-term surface stability.
 
-I am interested in continuing this work in a research or PhD setting, especially where modelling, geomorphology, and spatial data analysis are combined. I am also open to research assistant or geoscientific data-analysis roles where these skills are useful.
+I am interested in future research discussions involving numerical landscape evolution modelling, GIS-based terrain analysis, and lithology–climate–topography interactions.
 
 ---
 
